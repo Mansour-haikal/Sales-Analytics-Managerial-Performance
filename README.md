@@ -12,7 +12,7 @@ This dashboard provides a comprehensive analysis of sales performance, store man
 * **Average Order Value (AOV):** Each transaction averages $1,103.82.
 
 ## Dashboard Preview
-![Dashboard Screenshot](Dashboard.png)
+![Dashboard Screenshot](Dashboard.PNG)
 
 ## Tools Used
 * Excel (Pivot Tables, Power Query, Slicers).
